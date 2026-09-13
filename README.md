@@ -22,7 +22,7 @@ cd python-project-49
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+https://asciinema.org/a/iYYC7UYsqm7lqo8y
 
 ---
 
