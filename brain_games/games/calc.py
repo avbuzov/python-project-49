@@ -8,7 +8,7 @@ def calc():
         print(f'Question: {digit1} {sign} {digit2}')
         correct_answer = eval(str(digit1) + sign + str(digit2))
         answer = input('Your answer: ')
-        if answer.isdigit() and int(answer) == correct_answer:
+        if answer.lstrip('-').isdigit() and int(answer) == correct_answer:
             print('Correct!')
             continue
         else:
