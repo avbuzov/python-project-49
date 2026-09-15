@@ -31,6 +31,9 @@ https://asciinema.org/a/UFVntZmd9AF6egvT
 # Игра НОД
 https://asciinema.org/a/EOK2pzdIwEuTXwkC
 
+# Игра прогрессия
+https://asciinema.org/a/zgLLoSczv1HkI16r
+
 ---
 
 <details>
