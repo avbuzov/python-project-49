@@ -34,6 +34,9 @@ https://asciinema.org/a/EOK2pzdIwEuTXwkC
 # Игра прогрессия
 https://asciinema.org/a/zgLLoSczv1HkI16r
 
+# Игра простое число
+https://asciinema.org/a/9hit8RzFOar6XCxL
+
 ---
 
 <details>
