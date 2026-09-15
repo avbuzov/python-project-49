@@ -1,11 +1,11 @@
-from ..games.even import even
+from ..games.calc import calc
 from .cli import loose, welcome_user, win
 
 
 def main():
     name = welcome_user()
-    print('Answer "yes" if the number is even, otherwise answer "no".')
-    result, answer, correct_answer = even()
+    print('What is the result of the expression?')
+    result, answer, correct_answer = calc()
     if result:
         win(name)
     else:

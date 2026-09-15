@@ -22,7 +22,11 @@ cd python-project-49
 
 ## Использование
 
+# Игра чет/нечет
 https://asciinema.org/a/iYYC7UYsqm7lqo8y
+
+# Игра калькулятор
+https://asciinema.org/a/UFVntZmd9AF6egvT
 
 ---
 
