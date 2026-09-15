@@ -28,6 +28,9 @@ https://asciinema.org/a/iYYC7UYsqm7lqo8y
 # Игра калькулятор
 https://asciinema.org/a/UFVntZmd9AF6egvT
 
+# Игра НОД
+https://asciinema.org/a/EOK2pzdIwEuTXwkC
+
 ---
 
 <details>
